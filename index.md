@@ -7,7 +7,7 @@
       <p><b>邮箱：1119030247@qq.com</b></p
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/mmexport1604470002858.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
