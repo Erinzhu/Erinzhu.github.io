@@ -8,7 +8,7 @@
       <p><b>邮箱：1119030247@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhulanying.jpg" width="100%">      
+      <img src="/mmexport1604470002858.jpg" width="100%">      
     </td>
   </tr>
   <table border="1">
